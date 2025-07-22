@@ -1,5 +1,5 @@
 # Alohomora
-# RBE/CS 549: Homework 0 - Alohomora
+
 
 ## Overview
 This project is divided into two phases focusing on different aspects of computer vision and deep learning:
